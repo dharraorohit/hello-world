@@ -1,2 +1,5 @@
 # hello-world
-this is first repo
+this is my first repo
+
+i am currently playing with git hub
+i love to create stuff.
